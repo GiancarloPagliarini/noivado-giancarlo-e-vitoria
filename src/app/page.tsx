@@ -30,7 +30,7 @@ export default function Home() {
         </h2>
         <p className="mb-3 max-w-xs text-center text-xs text-gray-700 sm:mb-6 sm:max-w-md sm:text-lg">
           Estamos preparando uma surpresa inesquecível para celebrar nosso
-          noivado.
+          casamento.
           <br />
           Volte em breve para descobrir todas as novidades e detalhes desse
           momento especial!
